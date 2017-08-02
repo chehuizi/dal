@@ -4,4 +4,6 @@
 
 # 分库分表
   ![分库分表框架图](http://dangdangdotcom.github.io/sharding-jdbc/img/architecture.png)
-  ## 分库规则
+  ## JDBC规范重写
+
+# JDBC规范
