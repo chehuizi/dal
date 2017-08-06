@@ -1,7 +1,7 @@
 # 分库分表
   ![分库分表框架图](http://dangdangdotcom.github.io/sharding-jdbc/img/architecture.png)
   ## JDBC规范重写
-  ![sharding分库分表]https://github.com/chehuizi/dal/blob/master/jdbc-interface.jpg
+  ![sharding分库分表](https://github.com/chehuizi/dal/blob/master/jdbc-interface.jpg)
 
 # JDBC规范
 jdbc规范是Java语言针对关系型数据库制定的一套接口规范。
